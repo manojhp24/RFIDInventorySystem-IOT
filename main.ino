@@ -13,8 +13,8 @@
 #define WIFI_PASSWORD "mhp961972"
 
 // DB Credentials
-#define API_KEY "AIzaSyDKXCuL4ln_uyNcJueYGp6y_eheipPQriU"
-#define DATABASE_URL "https://rfidinventorysystem-iot-default-rtdb.firebaseio.com/"
+#define API_KEY "your_api_key"
+#define DATABASE_URL "your_real_time_db_url"
 #define USER_EMAIL "manojhp584@gmail.com"
 #define USER_PASSWORD "Rfid_iot_project"
 
