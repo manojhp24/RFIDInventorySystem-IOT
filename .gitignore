@@ -1,0 +1,28 @@
+# ===== Secrets / Credentials =====
+secrets.h
+
+# ===== Arduino build files =====
+*.elf
+*.hex
+*.bin
+*.map
+
+# ===== Arduino IDE temporary files =====
+*.tmp
+*.log
+
+# ===== VS Code / IDE files =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== OS generated files =====
+.DS_Store
+Thumbs.db
+
+# ===== Python (if used later) =====
+__pycache__/
+*.pyc
+
+# ===== PlatformIO (if ever used) =====
+.pio/

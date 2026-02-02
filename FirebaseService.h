@@ -30,7 +30,7 @@ class FirebaseService{
     void loop();
     bool ready();
     void writeTestData();
-    // void sendUID(const String& uid);
+    void checkHandlerAuthorization(const String& uid);
 };
 
 
